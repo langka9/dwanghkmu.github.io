@@ -11,7 +11,7 @@ authors:
   - 王丹
 
 # Is this the primary user of the site?
-superuser: Yes
+superuser: true
 
 # Role/position
 role: Assistant Professor of Electronic Engineering and Computer Science
