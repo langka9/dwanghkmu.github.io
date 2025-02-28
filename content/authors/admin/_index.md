@@ -1,41 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Debby Wang 王丹
 
-# Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+# Full name (for SEO)
+first_name: Debby
+last_name: Wang
+
+# Username (this should match the folder name)
+authors:
+  - 王丹
 
 # Is this the primary user of the site?
-superuser: true
+superuser: Yes
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Electronic Engineering and Computer Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Hong Kong Metropolitan University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My teaching Areas include Algorithms, Database, Programing Languages, and AI. My research interests include Structural Bioinformatics, Structure-based Drug Design, and Health Informatics.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Structural Bioinformatics
+  - Structure-based Drug Design
+  - Health Informatics
 
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: City University of Hong Kong
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: dwang@hkmu.edu.hk
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -63,15 +61,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
+  - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. WANG Dan received her PhD degree from Department of Electronic Engineering, City University of Hong Kong in 2014. Afterwards, she pursued her research in multiple institutes, including City University of Hong Kong (2015 - Postdoc, 2019 - RF), Caritas Institute of Higher Education (2016 - AP), National University of Singapore (2017~2018 - RF) and University of Shanghai for Science and Technology (2020~2022 - AP). She is now working as an Assistant Professor in School of Science and Technology, Hong Kong Metropolitan University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. WANG Dan's research is focused on structural bioinformatics and health informatics. Detailed research topics include (1) Designing structure-based scoring functions (SFs) for protein-ligand binding-affinity prediction (BAP) in structure-based drug design, (2) Target-specific BAP and drug-efficacy exploration in studies of non-small-cell lung cancer (NSCLC) and (3) Data processing and knowledge mining in massive Electronic Medical Records (EMRs).
